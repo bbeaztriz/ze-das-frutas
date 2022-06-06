@@ -10,6 +10,15 @@
     height: max-content;
 }
 
+
+.navbar-brand{
+    margin-left: 47%;
+}
+
+.btn-success{
+    margin-left: 29%;
+}
+
 .cards{
     display: flex;
     flex-direction:row ;
